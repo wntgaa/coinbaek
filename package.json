@@ -1,0 +1,28 @@
+{
+  "name": "coin",
+  "version": "1.0.0",
+  "description": "we can know Bitcoin",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --exec babel-node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wntgaa/coinbaek.git"
+  },
+  "author": "Kim Min seop",
+  "license": "GPL-v3.0",
+  "bugs": {
+    "url": "https://github.com/wntgaa/coinbaek/issues"
+  },
+  "homepage": "https://github.com/wntgaa/coinbaek#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/node": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "nodemon": "^2.0.15"
+  }
+}
