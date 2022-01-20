@@ -2,21 +2,21 @@
 
 
 <h1>🚧🚧구조🚧🚧</h1>
-/ -> Home   
-/join -> Join   
-/login -> Login   
-/search -> Search   
+/ -> Home__
+/join -> Join__   
+/login -> Login__   
+/search -> Search__   
 </br>
-/users/:id -> See User      
-/users/logout -> Log Out   
-/users/edit -> Edit MY Profile   
-/users/delete -> Delete MY Profile
+/users/:id -> See User__      
+/users/logout -> Log Out__   
+/users/edit -> Edit MY Profile__   
+/users/delete -> Delete MY Profile__
 </br>
-/videos/:id -> See Video   
-/videos/:id/edit -> Edit Video   
-/videos/:id/delete -> Delete Video   
-/videos/upload -> Upload Video   
+/videos/:id -> See Video__   
+/videos/:id/edit -> Edit Video__   
+/videos/:id/delete -> Delete Video__   
+/videos/upload -> Upload Video__   
 </br>
-시작일 : 2022/01/02 ~ 
+시작일 : 2022/01/02 ~ __
 
 개발 블로그 :https://velog.io/@wntgaa
