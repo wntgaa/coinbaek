@@ -2,10 +2,10 @@
 
 
 <h1>🚧🚧구조🚧🚧</h1>
-/ -> Home__
-/join -> Join__   
-/login -> Login__   
-/search -> Search__   
+/ -> Home  
+/join -> Join  
+/login -> Login  
+/search -> Search  
 </br>
 /users/:id -> See User__      
 /users/logout -> Log Out__   
