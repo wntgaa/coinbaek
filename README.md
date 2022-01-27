@@ -6,7 +6,8 @@
 
 /join -> Join  
 
-	@@ -11,16 +12,24 @@
+/watch
+
 /search -> Search  
 
 </br>
